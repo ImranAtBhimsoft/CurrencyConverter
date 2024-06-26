@@ -14,3 +14,5 @@
 * Room Database
 * Retrofit / Okhttp Client
 * Repository / Usecase implementation
+
+[![Everything Is AWESOME](https://img.youtube.com/vi/87F6zV9W4fc/0.jpg)](https://www.youtube.com/shorts/87F6zV9W4fc "Everything Is AWESOME")
