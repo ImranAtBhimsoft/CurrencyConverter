@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Currency Converter</string>
+    <string name="currency_text_field">Currency Text Field</string>
+    <string name="currency_list">Currency List</string>
+    <string name="currency_list_item">Currency List Item</string>
+    <string name="currency_bottom_sheet">Currency Bottom sheet</string>
+    <string name="currencies_grid">Currency grid</string>
+    <string name="currencies_grid_item">Currency grid item</string>
+</resources>
